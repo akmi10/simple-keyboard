@@ -1,2 +1,3 @@
-import SimpleKeyboard from "./components/Keyboard";
-export default SimpleKeyboard;
+function createtable(){
+console.log("eko indarto");
+}
